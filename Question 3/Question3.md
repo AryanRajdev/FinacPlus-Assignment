@@ -34,7 +34,7 @@ Is it returnable? – Important for customers before buying.
 Date Added – When the item was listed on the site.
 
 
-
+<pre>
 ```json
 {
   "itemName": "Men's Cotton T-shirt",
@@ -60,7 +60,8 @@ Date Added – When the item was listed on the site.
   "returnable": true,
   "dateAdded": "06-07-2024"
 }
-
+```
+</pre>
 
 
 -> How this metadata helps:
